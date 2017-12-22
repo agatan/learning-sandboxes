@@ -13,6 +13,8 @@ numpy = "*"
 sklearn = "*"
 pandas = "*"
 "mecab-python3" = "*"
+jupyter = "*"
+matplotlib = "*"
 
 
 [dev-packages]
